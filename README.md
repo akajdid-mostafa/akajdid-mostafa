@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a **Full Stack Web Developer** with expertise 
 
 ## 🚀 About Me
 
-- 🔭 **Currently Working At**: [Ocean Connecting](https://oceanconnecting.com) as a **Full Stack Web Developer**.
-- 🌱 **Learning**: Advanced .NET frameworks, cloud technologies, and improving my skills in **TypeScript** and **Next.js**.
+- 🔭 **Currently Working At**:  I’m currently working on improving my skills as a **Full Stack Web Developer**.
+- 🌱 **Learning**: Advanced .NET frameworks, cloud technologies, and improving my skills in **TypeScript** and **Next.js** and learning new technologies and frameworks to stay updated in the ever-evolving tech world.
 - 👯 **Looking to Collaborate**: On open-source projects, web development, or innovative tech solutions.
 - 💬 **Ask Me About**: Full stack development, front-end frameworks, back-end APIs, or database design.
-- 📫 **How to Reach Me**: [mostafaakajdid6@gmail.com](mailto:mostafaakajdid6@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Portfolio](https://akajdid.vercel.app/).
+- 📫 **How to Reach Me**: [mostafaakajdid6@gmail.com](mailto:mostafaakajdid6@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mostafa-akajdid-774735232/) | [Portfolio](https://akajdid.vercel.app/).
 - ⚡ **Fun Fact**: I love solving puzzles and watching online content like movies and podcasts in my spare time.
 
 ---
