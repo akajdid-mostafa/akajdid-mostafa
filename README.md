@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Web Developer** with expertise 
 - 🌱 **Learning**: Advanced .NET frameworks, cloud technologies, and improving my skills in **TypeScript** and **Next.js**.
 - 👯 **Looking to Collaborate**: On open-source projects, web development, or innovative tech solutions.
 - 💬 **Ask Me About**: Full stack development, front-end frameworks, back-end APIs, or database design.
-- 📫 **How to Reach Me**: [mostafaakajdid6@gmail.com](mailto:mostafaakajdid6@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Portfolio](#).
+- 📫 **How to Reach Me**: [mostafaakajdid6@gmail.com](mailto:mostafaakajdid6@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Portfolio](https://akajdid.vercel.app/).
 - ⚡ **Fun Fact**: I love solving puzzles and watching online content like movies and podcasts in my spare time.
 
 ---
