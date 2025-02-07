@@ -109,7 +109,7 @@ Here are some of the projects I've worked on:
 
 Feel free to reach out to me for collaborations or just a friendly chat:
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/mostafa-akajdid-774735232/)
 - [Email](mailto:mostafaakajdid6@gmail.com)
 - [GitHub](https://github.com/akajdid-mostafa)
 
