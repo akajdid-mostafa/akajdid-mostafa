@@ -2,7 +2,7 @@
 
 <img width="100%" alt="Mostafa Akajdid — Full-Stack Developer" src="https://raw.githubusercontent.com/akajdid-mostafa/akajdid-mostafa/main/assets/banner.svg" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-akajdidm.vercel.app-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://akajdidm.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://akajdidm.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-akajdid)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafaakajdid6@gmail.com)
 
