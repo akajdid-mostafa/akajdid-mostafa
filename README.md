@@ -14,47 +14,34 @@ _I start with the user experience, then build the architecture that makes it pos
 
 ---
 
-## About
-
 I build web products where the interface feels effortless and the code behind it holds up. I work across the stack — React and Next.js on the front end, Spring Boot and Node.js on the back end — and I care about the details most people only notice when they're done well: clear navigation, readable code, honest communication.
 
 Currently focused on full-stack work at **Dynamic Impact**, where I design and build the product roadmap and the architecture that supports it.
 
-## How I work
-
-- **Start with the user.** Requirements come first, technology serves them.
-- **Ship maintainable code.** The next person to read it will thank you.
-- **Test what matters.** Broken software is an inconvenience, not a feature.
-- **Communicate plainly.** No jargon, no noise, just progress.
-
-## Tech stack
+## Skills
 
 **Front end**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+[![Front end](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind)](https://skillicons.dev)
 
 **Back end**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+[![Back end](https://skillicons.dev/icons?i=spring,java,nodejs,express)](https://skillicons.dev)
 
 **Data & delivery**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+[![Data & delivery](https://skillicons.dev/icons?i=postgresql,mysql,docker,githubactions,git)](https://skillicons.dev)
+
+## Selected work
+
+- **[influmatch](https://github.com/akajdid-mostafa/influmatch)** — a platform connecting Moroccan brands with influencers for authentic marketing collaborations. React · Next.js — [live](https://influmatch-six.vercel.app)
+- **[briefberry](https://github.com/akajdid-mostafa/briefberry)** — AI-powered project briefs for designers, with quiz flow, brief library, and pricing. Next.js · Tailwind CSS — [live](https://briefberry-three.vercel.app)
+- **[zyra-platform-ai](https://github.com/akajdid-mostafa/zyra-platform-ai)** — an AI chat dashboard with chat, spaces, gallery, and auth. Next.js · React · Tailwind CSS — [live](https://zyra-platform-ai.vercel.app)
 
 ## GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=akajdid-mostafa&show_icons=true&hide_title=true&theme=transparent&hide_border=true&text_color=9ca3af&title_color=f3f4f6&icon_color=6EE7B7" height="160" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akajdid-mostafa&layout=compact&theme=transparent&hide_border=true&text_color=9ca3af&title_color=f3f4f6" height="160" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=akajdid-mostafa&show_icons=true&hide_title=true&theme=transparent&hide_border=true&text_color=9ca3af&title_color=f3f4f6&icon_color=6EE7B7" height="150" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akajdid-mostafa&layout=compact&theme=transparent&hide_border=true&text_color=9ca3af&title_color=f3f4f6" height="150" alt="Top languages" />
 
 ## Experience
 
