@@ -1,10 +1,6 @@
 <div align="center">
 
-# Mostafa Akajdid
-
-**Full-Stack Developer** · Casablanca, Morocco
-
-_I start with the user experience, then build the architecture that makes it possible._
+<img width="100%" alt="Mostafa Akajdid — Full-Stack Developer" src="https://cdn.jsdelivr.net/gh/akajdid-mostafa/akajdid-mostafa@main/assets/banner.svg" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-akajdidm.vercel.app-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://akajdidm.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-akajdid)
