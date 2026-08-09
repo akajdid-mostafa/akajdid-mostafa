@@ -15,8 +15,8 @@
 
   <!-- architectural blueprint marks -->
   <g stroke="rgba(255,255,255,0.07)" fill="none" stroke-width="1.2">
-    <line x1="820" y1="60" x2="820" y2="250"/>
-    <line x1="700" y1="60" x2="700" y2="250"/>
+    <line x1="820" y1="60" x2="820" y2="240"/>
+    <line x1="700" y1="60" x2="700" y2="240"/>
     <rect x="852" y="70" width="86" height="56"/>
     <line x1="852" y1="98" x2="938" y2="98"/>
     <circle cx="895" cy="98" r="3" fill="rgba(255,255,255,0.14)" stroke="none"/>
@@ -26,12 +26,13 @@
     <circle cx="838" cy="180" r="4" fill="#34d399" stroke="none"/>
   </g>
 
-  <text x="80" y="118" font-family="'Segoe UI', -apple-system, sans-serif" font-size="52" font-weight="700" fill="#f3f4f6">Mostafa Akajdid</text>
+  <text x="80" y="108" font-family="'Segoe UI', -apple-system, sans-serif" font-size="50" font-weight="700" fill="#f3f4f6">Mostafa Akajdid</text>
 
-  <rect x="82" y="138" width="48" height="4" fill="url(#accent)"/>
+  <rect x="82" y="128" width="48" height="4" fill="url(#accent)"/>
 
-  <text x="80" y="182" font-family="'Segoe UI', -apple-system, sans-serif" font-size="22" font-weight="600" fill="#34d399" letter-spacing="2">FULL-STACK DEVELOPER</text>
-  <text x="80" y="212" font-family="'Segoe UI', -apple-system, sans-serif" font-size="16" fill="#9ca3af">Casablanca, Morocco</text>
+  <text x="80" y="170" font-family="'Segoe UI', -apple-system, sans-serif" font-size="21" font-weight="600" fill="#34d399" letter-spacing="2">FULL-STACK DEVELOPER · PRODUCT-FOCUSED</text>
+  <text x="80" y="196" font-family="'Segoe UI', -apple-system, sans-serif" font-size="17" fill="#9ca3af">React · Next.js · TypeScript · Node.js · Spring Boot</text>
+  <text x="80" y="222" font-family="'Segoe UI', -apple-system, sans-serif" font-size="15" fill="#9ca3af">Casablanca, Morocco</text>
 
-  <text x="80" y="252" font-family="'Georgia', 'Times New Roman', serif" font-style="italic" font-size="19" fill="#c7cdd6">I start with the user experience, then build the architecture that makes it possible.</text>
+  <text x="80" y="262" font-family="'Georgia', 'Times New Roman', serif" font-style="italic" font-size="19" fill="#c7cdd6">I build production-ready web applications from interface to infrastructure.</text>
 </svg>

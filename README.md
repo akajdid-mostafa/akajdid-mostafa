@@ -8,36 +8,45 @@
 
 </div>
 
----
+## About
 
-I build web products where the interface feels effortless and the code behind it holds up. I work across the stack — React and Next.js on the front end, Spring Boot and Node.js on the back end — and I care about the details most people only notice when they're done well: clear navigation, readable code, honest communication.
+Full-stack developer focused on building complete web products — from responsive interfaces and application architecture to APIs, databases, authentication, deployment, and production maintenance.
 
-Currently focused on full-stack work at **Dynamic Impact**, where I design and build the product roadmap and the architecture that supports it.
+I work mainly with React, Next.js, TypeScript, Node.js and Spring Boot, with a strong focus on clean UX, maintainable architecture, and real-world delivery.
 
 ## Skills
 
-**Front end**
+**Frontend**
 
-[![Front end](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind)](https://skillicons.dev)
 
-**Back end**
+**Backend**
 
-[![Back end](https://skillicons.dev/icons?i=spring,java,nodejs,express)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,spring,java)](https://skillicons.dev)
 
-**Data & delivery**
+**Data & Infrastructure**
 
-[![Data & delivery](https://skillicons.dev/icons?i=postgresql,mysql,docker,githubactions,git)](https://skillicons.dev)
+[![Data & Infrastructure](https://skillicons.dev/icons?i=postgresql,mysql,prisma,docker,git)](https://skillicons.dev)
 
-## Selected work
+## Featured Projects
 
-- **[influmatch](https://github.com/akajdid-mostafa/influmatch)** — a platform connecting Moroccan brands with influencers for authentic marketing collaborations. React · Next.js — [live](https://influmatch-six.vercel.app)
-- **[briefberry](https://github.com/akajdid-mostafa/briefberry)** — AI-powered project briefs for designers, with quiz flow, brief library, and pricing. Next.js · Tailwind CSS — [live](https://briefberry-three.vercel.app)
-- **[zyra-platform-ai](https://github.com/akajdid-mostafa/zyra-platform-ai)** — an AI chat dashboard with chat, spaces, gallery, and auth. Next.js · React · Tailwind CSS — [live](https://zyra-platform-ai.vercel.app)
+**StoryCareer** — Full-stack storytelling platform with authentication, publishing, saved stories, responsive design, and SEO-friendly architecture.
+`Next.js · TypeScript · Prisma · PostgreSQL · Clerk`
+[Live](https://storycareer-six.vercel.app) · [Case study](https://akajdidm.vercel.app/projects/storycareer) · [GitHub](https://github.com/akajdid-mostafa/storycareer)
 
-## GitHub
+**HalaTranslate** — Production document translation platform with secure uploads, automated pricing, order tracking, administrative workflows, and document delivery.
+`Next.js · React · TypeScript · Node.js · Prisma · PostgreSQL · Cloudinary`
+[Live](https://translate-front-beta.vercel.app/) · [Case study](https://akajdidm.vercel.app/projects/halatranslat)
 
-<img src="https://github-readme-stats.vercel.app/api?username=akajdid-mostafa&show_icons=true&hide_title=true&theme=transparent&hide_border=true&text_color=9ca3af&title_color=f3f4f6&icon_color=6EE7B7" height="150" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akajdid-mostafa&layout=compact&theme=transparent&hide_border=true&text_color=9ca3af&title_color=f3f4f6" height="150" alt="Top languages" />
+**RealStat** — Full-stack real-estate platform with public property discovery and a separate administration dashboard.
+`Next.js · Prisma · PostgreSQL · Cloudinary`
+[Live](https://realstat-eta.vercel.app) · [Case study](https://akajdidm.vercel.app/projects/realstate)
+
+### More Projects
+
+- **MonPatient** — multi-role healthcare platform for patients, doctors, nurses, pharmacies, and admins. [Live](https://monpatient-kappa.vercel.app) · [Case study](https://akajdidm.vercel.app/projects/monpatient)
+- **Piolec** — corporate website with a custom CMS for an electrical engineering company. [Live](https://piolec-ten.vercel.app/) · [Case study](https://akajdidm.vercel.app/projects/piolec) · [GitHub](https://github.com/akajdid-mostafa/Piolec)
+- **Ocean Glass** — multilingual business platform for a glass services company. [Live](https://glass-ocean-five.vercel.app/en) · [Case study](https://akajdidm.vercel.app/projects/ocean-glass)
 
 ## Experience
 
@@ -50,14 +59,17 @@ Currently focused on full-stack work at **Dynamic Impact**, where I design and b
 
 ## Credentials
 
-- Oracle Certified Professional, **Java SE 17**
-- ISTA Taddart Agadir — Technicien Spécialisé, Développement Informatique (2020–2023)
-- Languages: French (professional) · English (intermediate)
-
----
+- Oracle Certified Professional — Java SE 17
+- ISTA Taddart Agadir — Développement Informatique
+- French — professional
+- English — intermediate
 
 <div align="center">
 
-_More about how I think and work → [akajdidm.vercel.app](https://akajdidm.vercel.app)_
+**Open to Full-Stack and Frontend opportunities.**
+
+[Portfolio](https://akajdidm.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mostafa-akajdid) · [Email](mailto:mostafaakajdid6@gmail.com)
+
+Casablanca, Morocco
 
 </div>
